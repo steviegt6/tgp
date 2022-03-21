@@ -1,0 +1,11 @@
+﻿{
+  "solution": {
+    "path": "TGP.sln",
+    "projects": [
+      "TGP.Desktop\\TGP.Desktop.csproj",
+      "TGP.Game\\TGP.Game.csproj",
+      "TGP.Game.Tests\\TGP.Game.Tests.csproj",
+      "TGP.Resources\\TGP.Resources.csproj"
+    ]
+  }
+}
